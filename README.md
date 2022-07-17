@@ -15,6 +15,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">    
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"
+            alt="vscode" width="40" height="40" />
+    </a>
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
         <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" 
              alt="node" width="40" height="40" />
@@ -42,17 +46,17 @@
     <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"
             alt="gitlab" width="40" height="40" />
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"
-            alt="vscode" width="40" height="40" />
-    </a>
+    </a>    
+    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968389.png"
+            alt="visual studio" width="40" height="40" />
+    </a>    
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"
             alt=".NET" width="40" height="40" />
     </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
+    <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"
             alt="mssql" width="40" height="40" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
