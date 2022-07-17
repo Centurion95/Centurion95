@@ -46,7 +46,11 @@
     <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"
             alt="gitlab" width="40" height="40" />
-    </a>    
+    </a>
+    <a href="https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg"
+            alt="vba" width="40" height="40" />
+    </a>   
     <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968389.png"
             alt="visual studio" width="40" height="40" />
@@ -62,9 +66,5 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
             alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg"
-            alt="vba" width="40" height="40" />
-    </a>    
+    </a>     
 </p>
