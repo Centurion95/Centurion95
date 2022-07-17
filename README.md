@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Centurión</h1>
-<h3 align="center">RPA and Full Stack Web Developer from Paraguay</h3>
+<h3 align="center">Software Engineer from Paraguay</h3>
 
 <h3 align="left">About me:</h3>
 - 🔭 I’m currently working on <b>my NodeJS and ReactJS Portfolio</b> <br>
