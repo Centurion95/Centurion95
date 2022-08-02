@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer from Paraguay</h3>
 
 <h3 align="left">About me:</h3>
-- 🔭 I’m currently working on <b>my NodeJS and ReactJS Portfolio</b> <br>
+- 🔭 I’m currently working on <b>my NodeJS and ReactJS skills</b> <br>
 - 📫 How to reach me: <b>centu95@hotmail.com</b><br>
 
 <h3 align="left">Connect with me:</h3>
