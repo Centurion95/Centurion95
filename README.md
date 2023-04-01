@@ -8,7 +8,8 @@
   - 💼 10 years of general software development experience <br>
   - 🔭 Currently working on my skills on the <b>MERN stack</b> (MongoDB, Express, React, Node) <br>
   - 📫 How to reach me: <b>centu95@hotmail.com</b><br>
-
+  - 👨‍💻  Gists: <b>https://gist.github.com/Centurion95</b><br>
+  
   <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a href="https://www.linkedin.com/in/rcenturion95/" target="blank">
