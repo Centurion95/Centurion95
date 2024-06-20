@@ -5,7 +5,7 @@
   <h4 align="center">from Paraguay 🇵🇾</h4>
 
   <h3 align="left">About me:</h3>
-  - 💼 10 years of general software development experience <br>
+  - 💼 11 years of general software development experience <br>
   - 🔭 Currently working on my skills on the <b>MERN stack</b> (MongoDB, Express, React, Node) <br>
   - 📫 How to reach me: <b>centu95@hotmail.com</b><br>
   - 👨‍💻  Gists: <b>https://gist.github.com/Centurion95</b><br>
