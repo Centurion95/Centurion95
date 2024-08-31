@@ -1,14 +1,19 @@
 <div>
   <h1 align="center">Hi 👋, I'm Rodrigo Centurión</h1>
 
-  <h3 align="center">Software Engineer - Full Stack Developer - ✍🏻 MERN - Javascript</h3>
+  <h3 align="center">Sr Software Engineer | Full Stack | SQL Server | Node | React | Express | Javascript | MongoDB | React | MERN</h3>
   <h4 align="center">from Paraguay 🇵🇾</h4>
 
   <h3 align="left">About me:</h3>
   - 💼 11 years of general software development experience <br>
-  - 🔭 Currently working on my skills on the <b>MERN stack</b> (MongoDB, Express, React, Node) <br>
   - 📫 How to reach me: <b>centu95@hotmail.com</b><br>
   - 👨‍💻  Gists: <b>https://gist.github.com/Centurion95</b><br>
+
+  <h3 align="left">See my last project: <a href="https://rugby-data-paraguay.vercel.app">Rugby Data Paraguay</a></h3>
+  - <b>MERN stack</b> (MongoDB, Express, React, Node) <br>
+  - GitHub <br>
+  - Vercel <br>
+  - MongoDB Atlas <br>
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
