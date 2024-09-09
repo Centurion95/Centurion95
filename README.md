@@ -4,106 +4,58 @@
   <h3 align="center">Sr Software Engineer | Full Stack | SQL Server | Node | React | Express | Javascript | MongoDB | React | MERN</h3>
   <h4 align="center">from Paraguay 🇵🇾</h4>
 
-  <h3 align="left">About me:</h3>
+  ![](https://komarev.com/ghpvc/?username=Centurion95&style=for-the-badge)
+
+  ## 👨‍💻 About me:
   - 💼 11 years of general software development experience <br>
   - 📫 How to reach me: <b>centu95@hotmail.com</b><br>
-  - 👨‍💻  Gists: <b>https://gist.github.com/Centurion95</b><br>
+  - 📝 Gists: <b>https://gist.github.com/Centurion95</b><br>
 
-  <h3 align="left">See my last project: <a href="https://rugby-data-paraguay.vercel.app">Rugby Data Paraguay</a></h3>
+  ## 🚀 See my last project: <a href="https://rugby-data-paraguay.vercel.app">Rugby Data Paraguay</a>
   - <b>MERN stack</b> (MongoDB, Express, React, Node) <br>
   - GitHub <br>
   - Vercel <br>
   - MongoDB Atlas <br>
   
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/rcenturion95/" target="blank">
-      <img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="https://www.linkedin.com/in/rcenturion95/" height="30" width="40" /></a>
-  </p>
+  ## Connect with me:
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcenturion95/)
 
-  <h3 align="left">Languages:</h3>
-  <p align="left">
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongo-db" width="40" height="40" />
-    </a>
-    <a href="https://expressjs.com/es/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-        alt="react" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40" />
-    </a>
-    <br>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-        alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-        alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript" width="40" height="40" />
-    </a>
-  </p>
+  ## Languages:
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![React.js](https://img.shields.io/badge/-React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
     
-  <h3 align="left">Tools:</h3>
-  <p align="left">
-    <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="debian-10" width="40"
-        height="40" />
-    </a>  
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40"
-        height="40" />
-    </a>    
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
-    </a>
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" />
-    </a>
-    <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40" />
-    </a>
-  </p>
+  ![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  
+  ## Tools:
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![VS_Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-  <h3 align="left">Others</h3>
-  <p>
-    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium.js" width="40" height="40" />
-    </a>
-    <a href="https://vuejs.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    </a>
-    <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" />
-    </a>
-    <a href="https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office"
-      target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="vba" width="40"
-        height="40" />
-    </a>
-    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968389.png" alt="visual studio" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
-    </a>
-  </p>
+  
+  ## Others:
+  ![Selenium_js](https://img.shields.io/badge/Selenium_JS-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=F7DF1E)
+  ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+  ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=E34F26)
+  ![Robotic_Process_Automation](https://img.shields.io/badge/-Robotic_Process_Automation-F7DF1E?style=for-the-badge)
+    
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostrgeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![VBA](https://img.shields.io/badge/VBA_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-CC342D?style=for-the-badge&logo=java&logoColor=white)
+  
+  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Centurion95&show_icons=true&theme=dark" height="150" alt="stats graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Centurion95&show_icons=true&locale=en&layout=compact&theme=dark" height="150" alt="languages graph"/>
+  </div>  
 </div>
