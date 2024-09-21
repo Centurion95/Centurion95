@@ -17,7 +17,7 @@
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcenturion95/)
 
-## 💻 Languages:
+## 💻 Technologies:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
