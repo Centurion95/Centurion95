@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Centurion95&style=for-the-badge)
 
 ## 👨‍💻 About me:
-- 💼 11 years of experience in general software development
+- 💼 12 years of experience in general software development
 - 📫 How to reach me: centu95@hotmail.com
 - 📝 Gists: https://gist.github.com/Centurion95
 
