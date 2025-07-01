@@ -6,7 +6,7 @@
 ## 👨‍💻 About me:
 - 💼 12 years of experience in general software development
 - 📫 How to reach me: centu95@hotmail.com
-- 📝 Gists: https://gist.github.com/Centurion95
+- 📝 All gists: https://gist.github.com/Centurion95
 
 ## 🚀 See my last project: [Rugby Data Paraguay](https://rugby-data-paraguay.vercel.app) 
 - MERN stack (MongoDB, Express, React, Node)
@@ -58,3 +58,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Centurion95&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
+
+## 👨‍💻 Some gists:
+- [🌌 Timeline of significant events in the history of the universe, from the Big Bang to modern human history](https://gist.github.com/Centurion95/b775a08ecb954a59d185c6dacd08d1ae)
+- [📝 English for Career Development](https://gist.github.com/Centurion95/86e981d53cfc13c46fe254d31720cd8d)
+
+  
