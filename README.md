@@ -60,7 +60,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=Centurion95&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
 
 ## 👨‍💻 Some gists:
-- [🌌 Timeline of significant events in the history of the universe, from the Big Bang to modern human history](https://gist.github.com/Centurion95/b775a08ecb954a59d185c6dacd08d1ae)
-- [📝 English for Career Development](https://gist.github.com/Centurion95/86e981d53cfc13c46fe254d31720cd8d)
+- 01/07/2025 - [🧪 QA Automation Jr – Full Roadmap with descriptions and examples in Java
+](https://gist.github.com/Centurion95/c49056ea6154deb96c5d125770f73c66)
+- 19/09/2024 - [🌌 Timeline of significant events in the history of the universe, from the Big Bang to modern human history](https://gist.github.com/Centurion95/b775a08ecb954a59d185c6dacd08d1ae)
+- 25/03/2024 - [📝 English for Career Development](https://gist.github.com/Centurion95/86e981d53cfc13c46fe254d31720cd8d)
 
   
