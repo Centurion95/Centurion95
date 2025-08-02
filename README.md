@@ -1,12 +1,12 @@
-# Hello, I'm Rodrigo Centurión from Paraguay 🇵🇾
+# Hello, I'm Rodrigo Centurión from Paraguay
 ### Sr Software Engineer | Full Stack | SQL Server | Node | React | Express | MERN
 
 ![](https://komarev.com/ghpvc/?username=Centurion95&style=for-the-badge)
 
 ## 👨‍💻 About me:
 - 💼 12 years of experience in general software development
-- 📫 How to reach me: centu95@hotmail.com
-- 📝 All gists: https://gist.github.com/Centurion95
+- 📫 How to reach me: https://linktr.ee/centurion95
+- 📝 All my gists: https://gist.github.com/Centurion95
 
 ## 🚀 See my last project: [Rugby Data Paraguay](https://rugby-data-paraguay.vercel.app) 
 - MERN stack (MongoDB, Express, React, Node)
@@ -60,6 +60,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Centurion95&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
 
 ## 👨‍💻 Some gists:
+- 02/august/2025 - [🤖 Comparison between Selenium.js, Puppeteer, and Playwright for RPA in Node.js](https://gist.github.com/Centurion95/6f967c38bd3b8e5e24eb0a1c8f6bad26)
 - 08/july/2025 - [🧠 Node.js Senior Software Engineer – Full Roadmap with descriptions and examples](https://gist.github.com/Centurion95/1060e0d654db2f78e66cfad65a9b7430)
 - 01/july/2025 - [🧪 QA Automation Jr – Full Roadmap with descriptions and examples in Java](https://gist.github.com/Centurion95/c49056ea6154deb96c5d125770f73c66)
 - 19/september/2024 - [🌌 Timeline of significant events in the history of the universe, from the Big Bang to modern human history](https://gist.github.com/Centurion95/b775a08ecb954a59d185c6dacd08d1ae)
