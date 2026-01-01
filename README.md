@@ -1,5 +1,5 @@
 # Hello, I'm Rodrigo Centurión from Paraguay
-### Sr Software Engineer | Full Stack | SQL Server | Node | React | Express | MERN
+### Sr Software Engineer & Consultant | Full Stack Development | SQL Server | Node.js | React & React Native | Express | JavaScript | MongoDB | MERN
 
 ![](https://komarev.com/ghpvc/?username=Centurion95&style=for-the-badge)
 
