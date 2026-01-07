@@ -23,7 +23,7 @@ Beyond technical expertise, I thrive in people management and driving high-impac
 - MongoDB Atlas
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcenturion95/)
+[![Linktree](https://img.shields.io/badge/-Linktree-009639?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/centurion95)
 
 ## 💻 Technologies:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -45,6 +45,7 @@ Beyond technical expertise, I thrive in people management and driving high-impac
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Oracle VPS](https://img.shields.io/badge/-Oracle%20VPS-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Dokploy](https://img.shields.io/badge/-Dokploy-4A90E2?style=for-the-badge&logoColor=white)
