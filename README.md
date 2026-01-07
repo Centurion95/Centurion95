@@ -3,6 +3,14 @@
 
 ![](https://komarev.com/ghpvc/?username=Centurion95&style=for-the-badge)
 
+Senior Software Engineer & Consultant with 12+ years of experience in the technology field, passionate about creating robust and scalable web and mobile applications using Node.js, React, and React Native.
+
+I have built my career around designing maintainable systems, leading automation strategies, and delivering impactful projects across the financial and public sectors. At Itaú Paraguay, I orchestrated automation initiatives and managed cross-functional teams, while for the Ministry of Education I developed cross-platform census applications with offline-first capabilities.
+
+Experienced in leading development teams with Agile methodologies, I have successfully guided projects through iterative cycles, ensuring efficient and timely deliveries. Skilled in database design and implementation (SQL Server – 9 years, MongoDB), I focus on performance optimization and efficient architecture.
+
+Beyond technical expertise, I thrive in people management and driving high-impact projects, empowering teams to innovate and achieve sustainable results.
+
 ## 👨‍💻 About me:
 - 💼 12 years of experience in general software development
 - 📫 How to reach me: https://linktr.ee/centurion95
@@ -23,18 +31,24 @@
 ![React.js](https://img.shields.io/badge/-React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   
 ![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostrgeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 💻 Tools:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS_Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Oracle VPS](https://img.shields.io/badge/-Oracle%20VPS-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Dokploy](https://img.shields.io/badge/-Dokploy-4A90E2?style=for-the-badge&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ## 💻 Others:
 ![Selenium_js](https://img.shields.io/badge/Selenium_JS-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
@@ -48,8 +62,9 @@
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PostrgeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-CC342D?style=for-the-badge&logo=java&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Centurion95&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
